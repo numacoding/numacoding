@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=numacoding&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=numacoding&icon=5&color=8)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=numacoding&icon=5&color=8)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
