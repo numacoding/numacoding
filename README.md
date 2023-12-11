@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 <!-- # 📊 GitHub Stats: -->
 
 ---
+## Some of my Research and Writing:
+- [Creation of a Dynamic Scoring Rule for Automated Market Makers](https://blog.zeitgeist.pm/introducing-zeitgeists-rikiddo-scoring-rule/)
+- [Impermanent Loss Mitigation on Prediction Markets](https://blog.zeitgeist.pm/mitigating-against-the-risk-of-impermanent-loss-in-prediction-markets/)
+- [From Banking Theory to Blockchain Reality: Creating a Decentralized Bank with Solidity (part 1)](https://medium.com/@numacodes/extrapolating-concepts-to-web3-coding-and-understanding-a-decentralized-bank-using-solidity-69797a771c47)
+
+
 <!--[![](https://visitcount.itsvg.in/api?id=numacoding&icon=5&color=8)](https://visitcount.itsvg.in)-->
 
 
